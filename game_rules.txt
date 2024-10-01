@@ -1,0 +1,11 @@
+Snake, Water, and Gun Game 🐍💧🔫
+This is a Python implementation of the classic Snake, Water, and Gun game, a variation of Rock, Paper, Scissors. The player competes against the computer, and the game randomly decides the winner based on the following rules:
+
+Snake drinks Water but is shot by Gun.
+Water douses Gun but is swallowed by Snake.
+Gun shoots Snake but gets doused by Water.
+Features:
+Randomized outcomes: The computer randomly selects its choice for each round.
+User Input: Players can choose between Snake, Water, or Gun.
+Result Display: Shows the winner after each round and tracks the overall score.
+Fun Interaction: A fun way to engage with simple conditional logic and game loops!
